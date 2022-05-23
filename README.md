@@ -115,7 +115,7 @@ endmodule
 ![OUTPUT](./downtime2.png)
 
 ### Truth Table:
-![OUTPUT](./dctt.png)
+![OUTPUT](./dctt1.png)
 <br>
 
 ## RESULTS 
